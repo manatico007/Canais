@@ -1,0 +1,84 @@
+??????Comandos??????
+cd %programfiles%\oracle\virtualbox 
+
+VBoxManage internalcommands createrawvmdk -filename "%USERPROFILE%"\.VirtualBox\usb.vmdk -rawdisk \\.\PhysicalDrive *
+
+
+#EXTM3U
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1 " tvg-logo="https://cld.pt/dl/download/fd810b72-aeb6-4e74-a529-764b3942e89b/zeus.jpg" ,[COLOR yellow]=====BRA[/COLOR][COLOR blue]ZIL 1=====[/COLOR]
+http://master1.ipfox.onl
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="http://grupobrtv.com/logos/aandehd.png" group-title="FILMES E SERIES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] A&E
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223328
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://grupobrtv.com/logos/aandehd.png" group-title="FILMES E SERIES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] A&E FHD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223326
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://grupobrtv.com/logos/aandehd.png" group-title="FILMES E SERIES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] A&E HD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223327
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://variety.com/wp-content/uploads/2013/11/amc-logo.jpg" group-title="FILMES E SERIES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] AMC FHD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223684
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="http://grupobrtv.com/logos/animalplanethd.png" group-title="DOCUMENTARIOS",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223340
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://grupobrtv.com/logos/animalplanethd.png" group-title="DOCUMENTARIOS",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223338
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://grupobrtv.com/logos/animalplanethd.png" group-title="DOCUMENTARIOS",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223339
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1" tvg-logo="http://grupobrtv.com/logos/arte1.png" group-title="MUSICAS E VARIEDADES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] ARTE 1
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223343
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="http://grupobrtv.com/logos/arte1.png" group-title="MUSICAS E VARIEDADES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] ARTE 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223341
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://grupobrtv.com/logos/arte1.png" group-title="MUSICAS E VARIEDADES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223342
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="http://grupobrtv.com/logos/axnhd.png" group-title="FILMES E SERIES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] AXN
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223331
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://grupobrtv.com/logos/axnhd.png" group-title="FILMES E SERIES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] AXN FHD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223329
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://grupobrtv.com/logos/axnhd.png" group-title="FILMES E SERIES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] AXN HD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223330
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY FHD" tvg-logo="http://grupobrtv.com/logos/babytv.png" group-title="INFANTIL",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BABY FHD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223344
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY HD" tvg-logo="http://grupobrtv.com/logos/babytv.png" group-title="INFANTIL",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BABY HD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223345
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV" tvg-logo="http://grupobrtv.com/logos/babytv.png" group-title="INFANTIL",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BABY TV
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223346
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BAND
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223352
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BAND FHD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223347
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BAND HD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223348
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS" tvg-logo="http://grupobrtv.com/logos/bandnews.png" group-title="NOTICIAS",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BAND NEWS
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223351
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="http://grupobrtv.com/logos/bandnews.png" group-title="NOTICIAS",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BAND NEWS FHD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223349
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://grupobrtv.com/logos/bandnews.png" group-title="NOTICIAS",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223350
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS" tvg-logo="http://grupobrtv.com/logos/bandsports.png" group-title="ESPORTES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BAND SPORTS
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223355
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://grupobrtv.com/logos/bandsports.png" group-title="ESPORTES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223353
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://grupobrtv.com/logos/bandsports.png" group-title="ESPORTES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223354
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="PAY PER VIEW",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BBB
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223696
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="PAY PER VIEW",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] BBB HD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223695
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://grupobrtv.com/logos/vivahd.png" group-title="MUSICAS E VARIEDADES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] VIVA HD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223667
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL" tvg-logo="http://grupobrtv.com/logos/warnerchannelhd.png" group-title="FILMES E SERIES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] WARNER CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223671
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://grupobrtv.com/logos/warnerchannelhd.png" group-title="FILMES E SERIES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] WARNER CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223669
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://grupobrtv.com/logos/warnerchannelhd.png" group-title="FILMES E SERIES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223670
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOHOO" tvg-logo="http://grupobrtv.com/logos/woohoo.png" group-title="MUSICAS E VARIEDADES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] WOHOO
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://brxp2p.xyz:8080/adriana1/123456/223673
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOHOO FHD" tvg-logo="http://grupobrtv.com/logos/woohoo.png" group-title="MUSICAS E VARIEDADES",[COLOR blue]ZE[/COLOR][COLOR yellow]US[/COLOR] WOHOO FHD
